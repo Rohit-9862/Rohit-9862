@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Rohit.
-- 👀 I’m interested in Programming from las 5 years and i have learn every thing by my own online (up untill i am writting this message
-  27-may-2024.
+- 👀 I’m interested in Programming from last 5 years and I have learn everything by myself online (up untill i am writting this message 27-may-2024.)
 - 🌱 I’m currently learning python and C.
-- 📫 How to reach me throught my email address "Thanos.com.com@gmail.com" I know it's a bit weird mail address. 
-- 😄 Pronouns: He.
+- 📫 You can reach me throught my email address "Thanos.com.com@gmail.com" I know it's a bit weird mail address. 
+- 😄 Pronouns: He, Him.
 
 <!---
 Rohit-9862/Rohit-9862 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
